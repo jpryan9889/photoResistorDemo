@@ -1,2 +1,3 @@
 # photoResistorDemo
-Nightlight project
+Nightlight project. Alvin Levik and James Ryan.
+MTRC Robotics 2021
